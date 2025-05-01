@@ -84,7 +84,7 @@ left_speed = base_speed - output
 
 Below is a flowchart illustrating the robot's control logic:
 
-![Robot Control Flowchart](flowchart.png)
+![Robot Control Flowchart](assets/flowchart.jpeg)
 
 ## Competition Results
 
