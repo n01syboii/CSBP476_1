@@ -22,6 +22,8 @@ This repository contains the code and documentation for a line following robot d
 - Wheel encoders for distance measurement
 - Buzzer for milestone notification
 
+![Hardware](assets/parts.jpg)
+
 ## Features
 
 - **PID Control**: Implements Proportional-Derivative control for smooth line following
