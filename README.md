@@ -93,7 +93,7 @@ Our robot successfully completed the competition track with the following achiev
 - Successfully navigated all curves and turns
 - Properly detected and stopped for obstacles
 - Correctly identified milestone markers
-- Completed the course in [time] seconds
+- Completed the course in 1:19 seconds
 - Earned 3rd place overall
 
 ## Video Demonstration
