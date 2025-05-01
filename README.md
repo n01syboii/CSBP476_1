@@ -130,5 +130,3 @@ A video demonstration of our robot completing the course can be found here:
 - [Line Following Robot Tutorial](https://circuitdigest.com/microcontroller-projects/line-follower-robot-using-arduino)
 - [PID Control Theory](https://en.wikipedia.org/wiki/PID_controller)
 - [Arduino Documentation](https://www.arduino.cc/reference/en/)
-
-test
